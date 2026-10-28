@@ -1,8 +1,1 @@
-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
-
-   "claudeCode.environmentVariables": [
-     { "name": "CLAUDE_CODE_OAUTH_TOKEN", "value": "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" }
-   ],
-
-
-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
+hadddd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
