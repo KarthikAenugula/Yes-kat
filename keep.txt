@@ -1,1 +1,5 @@
 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
+
+   "claudeCode.environmentVariables": [
+     { "name": "CLAUDE_CODE_OAUTH_TOKEN", "value": "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" }
+   ],
